@@ -1,12 +1,20 @@
 ---
-title: "mickymouse"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Mickey Mouse"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com/earobinson95/mikeymouse
+    - icon: file-earmark-pdf-fill
+      text: Resume
+      href: mickey-mouse-resume.pdf
+resources: 
+  - mickey-mouse-resume.pdf
 ---
+
+This is an example of a personal website. You can make one too!
