@@ -9,7 +9,7 @@ about:
       href: https://linkedin.com
     - icon: github
       text: Github
-      href: https://github.com/earobinson95/mikeymouse
+      href: https://github.com/earobinson95/mickeymouse
     - icon: file-earmark-pdf-fill
       text: Resume
       href: mickey-mouse-resume.pdf
