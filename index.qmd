@@ -12,7 +12,7 @@ about:
       href: https://github.com/earobinson95/mickeymouse
     - icon: file-earmark-pdf-fill
       text: Resume
-      href: mickey-mouse-resume.pdf
+      href: mickeymouse/mickey-mouse-resume.pdf
 resources: 
   - mickey-mouse-resume.pdf
 ---
