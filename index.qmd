@@ -12,8 +12,8 @@ about:
       href: https://github.com/earobinson95/mickeymouse
     - icon: file-earmark-pdf-fill
       text: Resume
-      href: mickeymouse/mickey-mouse-resume.pdf
-resources: 
+      href: mickey-mouse-resume.pdf
+resources:
   - mickey-mouse-resume.pdf
 ---
 
