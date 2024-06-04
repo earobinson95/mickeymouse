@@ -12,9 +12,9 @@ about:
       href: https://github.com/earobinson95/mickeymouse
     - icon: file-earmark-pdf-fill
       text: Resume
-      href: mickey-mouse-resume.pdf
+      href: files/mickey-mouse-resume.pdf
 resources:
-  - mickey-mouse-resume.pdf
+  - files/mickey-mouse-resume.pdf
 ---
 
 This is an example of a personal website. You can make one too!
